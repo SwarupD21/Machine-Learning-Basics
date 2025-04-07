@@ -21,7 +21,8 @@ The goal of this repo is to:
 | Day | Topics Covered |
 |-----|----------------|
 | Day 1 | Handling Missing Values |
-| Day 2 | Coming Soon... |
+| Day 2 | Data Standardization |
+| Day 3 | Coming Soon... |
 
 --
 ## 🛠️ Tools & Libraries
