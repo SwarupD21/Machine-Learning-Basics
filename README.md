@@ -23,7 +23,8 @@ The goal of this repo is to:
 | Day 1 | Handling Missing Values |
 | Day 2 | Data Standardization |
 | Day 3 | Label Encoding |
-| Day 4 | Coming Soon... |
+| Day 4 | Train and Test Split |
+| Day 5 | Coming Soon... |
 
 --
 ## 🛠️ Tools & Libraries
