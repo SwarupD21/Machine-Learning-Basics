@@ -25,7 +25,8 @@ The goal of this repo is to:
 | Day 3 | Label Encoding |
 | Day 4 | Train and Test Split |
 | Day 5 | Tfidf Vectorizer |
-| Day 6 | Coming Soon... |
+| Day 6 | Rock v/s Mine Project  |
+| Day 7 | Coming Soon... |
 
 --
 ## 🛠️ Tools & Libraries
