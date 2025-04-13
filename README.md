@@ -26,7 +26,8 @@ The goal of this repo is to:
 | Day 4 | Train and Test Split |
 | Day 5 | Tfidf Vectorizer |
 | Day 6 | Rock v/s Mine Project  |
-| Day 7 | Coming Soon... |
+| Day 7 | Gold Price Prediction |
+| Day 8 | Coming Soon... |
 
 --
 ## 🛠️ Tools & Libraries
