@@ -27,7 +27,8 @@ The goal of this repo is to:
 | Day 5 | Tfidf Vectorizer |
 | Day 6 | Rock v/s Mine Project  |
 | Day 7 | Gold Price Prediction |
-| Day 8 | Coming Soon... |
+| Day 8 | Car Price Model |
+| Day 9 | Coming Soon... |
 
 --
 ## 🛠️ Tools & Libraries
