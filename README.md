@@ -28,6 +28,7 @@ The goal of this repo is to:
 | Day 6 | Rock v/s Mine Project  |
 | Day 7 | Gold Price Prediction |
 | Day 8 | Car Price Model |
+| Day 9 | Heart Disease Prediction |
 | Day 9 | Coming Soon... |
 
 --
