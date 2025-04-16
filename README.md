@@ -29,7 +29,8 @@ The goal of this repo is to:
 | Day 7 | Gold Price Prediction |
 | Day 8 | Car Price Model |
 | Day 9 | Heart Disease Prediction |
-| Day 9 | Coming Soon... |
+| Day 9 | Credit Card Fraud Detection |
+| Day 10 | Coming Soon... |
 
 --
 ## 🛠️ Tools & Libraries
