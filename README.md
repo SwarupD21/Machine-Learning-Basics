@@ -30,7 +30,8 @@ The goal of this repo is to:
 | Day 8 | Car Price Model |
 | Day 9 | Heart Disease Prediction |
 | Day 10 | Credit Card Fraud Detection |
-| Day 11 | Coming Soon... |
+| Day 11 | Customer Segmentation |
+| Day 12 | Coming Soon... |
 
 --
 ## 🛠️ Tools & Libraries
