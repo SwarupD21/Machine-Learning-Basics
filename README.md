@@ -31,7 +31,8 @@ The goal of this repo is to:
 | Day 9 | Heart Disease Prediction |
 | Day 10 | Credit Card Fraud Detection |
 | Day 11 | Customer Segmentation |
-| Day 12 | Coming Soon... |
+| Day 12 | Vector Operations |
+| Day 13 | Coming Soon.....|
 
 --
 ## 🛠️ Tools & Libraries
