@@ -32,7 +32,8 @@ The goal of this repo is to:
 | Day 10 | Credit Card Fraud Detection |
 | Day 11 | Customer Segmentation |
 | Day 12 | Vector Operations |
-| Day 13 | Coming Soon.....|
+| Day 13 | Basic Matrix|
+| Day 14 | Coming Soon.....|
 
 --
 ## 🛠️ Tools & Libraries
