@@ -34,7 +34,8 @@ The goal of this repo is to:
 | Day 12 | Vector Operations |
 | Day 13 | Basic Matrix|
 | Day 14 | Matrix Operation|
-| Day 15 | Coming Soon.....|
+| Day 15 | K Fold Cross Validation |
+| Day 16 | Coming Soon.....|
 
 --
 ## 🛠️ Tools & Libraries
